@@ -1,0 +1,52 @@
+1)we make instance of class
+we can make array of classes
+we can also not set any value to private data member in a class
+we dont do anything directly with private data member of a class
+
+we use constructor for inline initilisation
+parameterised constructor
+copy constructor
+destructor get called when an object get destroyed NO PARAMETER NO RETURN
+
+\*\*operator overloading
+
+ENCAPSULATION
+**working
+**information which is not essential
+Advantages of Encapsulation:
+
+- Good coding practice, useful in interviews
+- Increased security of data
+
+INHERITANCE
+single inheritance      A<----B
+multiple inheritance
+	A_______B
+            ⬆
+	    ⬆
+	    C
+multilevel inheritance	A<----B<----C
+hybrid inheritance (MULTILEVEL + MULTIPLE )
+			A
+			⬆
+			⬆
+			B_______C
+                            ⬆
+	                    ⬆
+	                    D
+hierarchical inheritance 
+			______A______
+	               ⬆            ⬆
+		   ____B____     ____C____ 
+        	 ⬆         ⬆  ⬆         ⬆                
+		 D	    E   F	  G
+
+
+polymorphism 
+
+1)Compile time
+	1)function overloading
+	2)operator overloading
+
+2)Runtime
+	1)virtual functions
